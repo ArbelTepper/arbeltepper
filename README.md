@@ -1,9 +1,9 @@
 # Hi there 👋, my name is Arbel Tepper
 
 ## 🙋‍♂️ About me
-I am a Computer Science student at Bar-Ilan university. Throughout my studies I have touched on many tools programming languages and have learned a lot topics ranging from math through algorithems and data structures to Object-Oriented Programmimg and computer architecture.
+I am a Computer Science student at Bar-Ilan university (BIU). Throughout my studies I have touched on many tools programming languages and have learned a lot topics ranging from math through algorithms and data structures to Object-Oriented Programming and computer architecture.
 
-But my passion is ⚡data science and machine learning⚡ and I plan to persue that in the future. Another passion of mine is (human) language-learning: I have self-learned 🇩🇪 and now I'm focusing on 🇪🇸 and 🇷🇺.
+But my passion is ⚡data science and machine learning⚡ and I plan to pursue that in the future. Another passion of mine is (human) language-learning: I have self-learned 🇩🇪 and now I'm focusing on 🇪🇸 and 🇷🇺.
 
 Whenever I can try to study practical tools on my own and work on some projects which you can check out at the repositories down below.
 
